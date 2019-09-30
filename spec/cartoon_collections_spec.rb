@@ -52,9 +52,6 @@ end
 
 find_the_cheese(snacks)
 
-
-
-# This is a much better way cause the cheese array isn't included in the method.
 cheese_types = ["cheddar", "gouda", "camembert"]
 snacks = ["crackers", "gouda", "thyme"]
 
